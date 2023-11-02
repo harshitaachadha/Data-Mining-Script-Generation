@@ -1,1 +1,11 @@
 # Data-Mining-Script-Generation
+- [X] Scrape Metadata
+- [X] Scarpe Script Data
+- [ ] Clean Metadata
+- [ ] Clean Script data
+- [ ] Identify data mining attributes
+- [ ] Mine attributes
+- [ ] Consolidate Data
+- [ ] Build Classifier
+- [ ] Test and evaluate classifier
+- [ ] **Detailed data analysis with the script to generate graphs
