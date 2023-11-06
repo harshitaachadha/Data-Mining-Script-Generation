@@ -1,6 +1,6 @@
 # Data-Mining-Script-Generation
-- [X] Scrape Metadata
-- [X] Scarpe Script Data
+- [X] Get Metadata
+- [X] Get Script Data
 - [ ] Clean Metadata
 - [ ] Clean Script data
 - [ ] Identify data mining attributes
